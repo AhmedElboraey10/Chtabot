@@ -26,6 +26,8 @@ This project brings several core frontend ideas together in one application:
 
 ## Interface
 
+![React chatbot screenshot](src/assets/chatbot.png)
+
 - User and robot messages have separate avatars and message styles.
 - Each completed message displays a time.
 - The message history scrolls to the latest message automatically.
